@@ -1,0 +1,4 @@
+When would you want to use a remote repository rather than keeping all your work
+local?
+
+When the project is open to contributors and you would like others to join the development. Also to create your public portfolio.
