@@ -18,3 +18,11 @@ How can you use the commands git log and git diff to view the history of files?
 
 By using the exact same command. Using --stat will allow us to see a reference code as well.
 
+
+How might using version control make you more confident to make changes that could break something?
+
+There is the possibility to apply changes without overriding the original file (if previously committed).
+
+Now that you have your workspace set up, what do you want to try using git for?
+
+I want to start creating programs in python, commit them on github and soon be proficient in python programming towards Data Science.
