@@ -19,3 +19,6 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 
 In the past I would have used team-speak in order to work together on a file shared online (dropbox, Gdrive, etc). Slack is another app used to communicate although changes still need to be performed on a shared file using other systems.
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+When I would like to get a collaboration/opinion from a colleague or a contributor. I could also do it just to have two or more parts of a code developed at the same time via single pathways so that the master branch will only have working and optimised code (once updated by merging other branches).
