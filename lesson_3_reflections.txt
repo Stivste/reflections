@@ -15,3 +15,7 @@ What is the benefit of having a copy of the last known state of the remote store
 
 -?-
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+In the past I would have used team-speak in order to work together on a file shared online (dropbox, Gdrive, etc). Slack is another app used to communicate although changes still need to be performed on a shared file using other systems.
+
